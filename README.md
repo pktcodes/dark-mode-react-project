@@ -25,4 +25,4 @@ Netlify
 npm install moment
 ```
 
-*Note: I have developed this project ~ [20] on part of React and Projects Course thought by John Smilga.*
+*Note: I have developed this project ~ [20] as part of React and Projects Course taught by John Smilga..*
